@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "exercise1_saying_hello"
 version = "0.1.0"
+
+[[package]]
+name = "exercise2_counting_the_number_of_characters"
+version = "0.1.0"
